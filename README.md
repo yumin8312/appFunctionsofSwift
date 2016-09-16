@@ -7,9 +7,9 @@
 
 # Project & GIF  Demo
 
-project 1_[baseCell]()  
+project 1_[baseCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project1_baseCell)  
 
-![image]()  
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project1_baseCell/baseCell.gif)  
 
 I learn how to use:  
 *  creat base cell
