@@ -11,10 +11,9 @@ project 1_[baseCell]()
 
 ![image]()  
 
-I learn how to :  
-*  
-*  
-*  
+I learn how to use:  
+*  creat base cell
+*  cell重複使用機制 -> tableView(_:dequeueReusableCellWithIdentifier)  
 
 
 </br>
