@@ -16,4 +16,15 @@ I learn how to use:
 *  cell重複使用機制 -> tableView(_:dequeueReusableCellWithIdentifier)  
 
 
+</br>  
+
+project 2_[customCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/%20Project%202_customCell)  
+
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/%20Project%202_customCell/customCell.gif)  
+
+I learn how to use:  
+*  creat custom cell
+*  add new Cocoa touch class   
+
+
 </br>
