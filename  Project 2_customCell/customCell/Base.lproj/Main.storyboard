@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="15G1004" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="PIn-Aw-lYU">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--Custom Table View Controller-->
+        <scene sceneID="bD8-a6-IZ8">
+            <objects>
+                <tableViewController id="PIn-Aw-lYU" customClass="customTableViewController" customModule="customCell" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="250" sectionHeaderHeight="28" sectionFooterHeight="28" id="CC9-e0-9th">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="Cell" rowHeight="250" id="9na-RK-1a5" customClass="customTableViewCell" customModule="customCell" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="28" width="600" height="250"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="9na-RK-1a5" id="UGs-ev-7Bb">
+                                    <rect key="frame" x="0.0" y="0.0" width="600" height="249"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="bHa-LG-7yp">
+                                            <rect key="frame" x="-12" y="-12" width="624" height="273"/>
+                                        </imageView>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="name" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="W2B-1n-tsO">
+                                            <rect key="frame" x="260" y="184" width="80" height="21"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <color key="textColor" red="0.78539663459999998" green="0.0" blue="0.0073526912969999999" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                    </subviews>
+                                    <constraints>
+                                        <constraint firstItem="W2B-1n-tsO" firstAttribute="centerX" secondItem="bHa-LG-7yp" secondAttribute="centerX" id="0J4-nO-56E"/>
+                                        <constraint firstItem="W2B-1n-tsO" firstAttribute="leading" secondItem="bHa-LG-7yp" secondAttribute="trailing" constant="-352" id="M3s-4A-K7j"/>
+                                        <constraint firstItem="bHa-LG-7yp" firstAttribute="centerX" secondItem="UGs-ev-7Bb" secondAttribute="centerX" id="MZn-Ij-EM5"/>
+                                        <constraint firstAttribute="bottomMargin" secondItem="bHa-LG-7yp" secondAttribute="bottom" constant="-20" id="OI0-vF-eca"/>
+                                        <constraint firstAttribute="trailingMargin" secondItem="bHa-LG-7yp" secondAttribute="trailing" constant="-20" id="TIC-1o-8TL"/>
+                                        <constraint firstItem="bHa-LG-7yp" firstAttribute="leading" secondItem="UGs-ev-7Bb" secondAttribute="leadingMargin" constant="-20" id="ZM0-Qt-UZt"/>
+                                        <constraint firstItem="W2B-1n-tsO" firstAttribute="top" secondItem="bHa-LG-7yp" secondAttribute="bottom" constant="-77" id="fD7-UO-mzm"/>
+                                        <constraint firstItem="bHa-LG-7yp" firstAttribute="top" secondItem="UGs-ev-7Bb" secondAttribute="topMargin" constant="-20" id="mTy-mH-FE0"/>
+                                    </constraints>
+                                </tableViewCellContentView>
+                                <connections>
+                                    <outlet property="imagedView" destination="bHa-LG-7yp" id="vwi-gk-LwO"/>
+                                    <outlet property="namelabel" destination="W2B-1n-tsO" id="aYy-Cy-dda"/>
+                                </connections>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="PIn-Aw-lYU" id="yIG-3U-dcm"/>
+                            <outlet property="delegate" destination="PIn-Aw-lYU" id="cdC-8i-pgC"/>
+                        </connections>
+                    </tableView>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Xgi-pr-v8x" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="290" y="285"/>
+        </scene>
+    </scenes>
+</document>
