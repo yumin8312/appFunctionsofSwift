@@ -7,9 +7,9 @@
 
 # Project & GIF  Demo
 
-project 1_[baseCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project1_baseCell)  
+project 1_[baseCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%201_baseCell)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project1_baseCell/baseCell.gif)  
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%201_baseCell/baseCell.gif)  
 
 I learn how to use:  
 *  creat base cell
@@ -18,9 +18,9 @@ I learn how to use:
 
 </br>  
 
-project 2_[customCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/%20Project%202_customCell)  
+project 2_[customCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%202_customCell)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/%20Project%202_customCell/customCell.gif)  
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%202_customCell/customCell.gif)  
 
 I learn how to use:  
 *  creat custom cell
