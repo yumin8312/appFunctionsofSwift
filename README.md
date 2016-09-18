@@ -16,7 +16,7 @@ I learn how to use:
 *  cell重複使用機制 -> tableView(_:dequeueReusableCellWithIdentifier)  
 
 
-</br>  
+</br> 
 
 project 2_[customCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%202_customCell)  
 
@@ -25,6 +25,19 @@ project 2_[customCell](https://github.com/yumin8312/appFunctionsofSwift/tree/mas
 I learn how to use:  
 *  creat custom cell
 *  add new Cocoa touch class   
+
+
+</br>
+
+project 3_[swipeableCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%203_swipeableCell)  
+
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%203_swipeableCell/swipeableCell.gif)  
+
+I learn how to use:  
+*  creat row action 
+*  custom  UITableViewRowAction  
+*  tableview(_:commitEditingStyle editingStyle) & tableview(_:editActionForRowAtIndexPath)  
+*  add emoji in row action  
 
 
 </br>
