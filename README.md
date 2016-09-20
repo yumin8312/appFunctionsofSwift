@@ -4,6 +4,8 @@
 這 appFunctionsofSwift repository 是我練習所做的Demo.或許你已經在其他地方看過類似的,  
 但這其實都是App的基礎功能,所以想透過這些Demo,來記錄自己自學的情況.
 
+這是我自己額外寫的[My Blog](https://medium.com/@yumin8312)  
+
 
 # Project & GIF  Demo
 
@@ -40,4 +42,17 @@ I learn how to use:
 *  add emoji in row action  
 
 
-</br>
+</br>  
+
+project 4_[alertAction](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%204_alertAction)  
+
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%204_alertAction/alertAction.gif)  
+
+I learn how to use:  
+*   creat alert action 
+*   interactive with table view 
+*   checkmark in table view 
+
+
+</br>  
+
