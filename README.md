@@ -2,19 +2,32 @@
 
 這 appFunctionsofSwift repository 是我練習所做的Demo.或許你已經在其他地方看過類似的,  
 但這其實都是App的基礎功能,所以想透過這些Demo,來記錄自己自學的情況.  
-這是我自己額外寫的[My Blog](https://medium.com/@yumin8312)
+這是我自己額外寫的[Blog](https://medium.com/@yumin8312)
 
-# Project & GIF  Demo 
+# Project & GIF  Demo  
 </br>  
 
-project 5_[alertAction](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%205_collectionCell)  
+project 6_[navigationController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%206_navigationController)  
+
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%206_navigationController/navigationController.gif)  
+
+I learn how to use:  
+*   create Detail view
+*   custom navigation bar
+*   add hide navigation bar
+*   change status bar 
+
+
+</br>  
+
+project 5_[collectionCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%205_collectionCell)  
 
 ![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%205_collectionCell/collectionCell.gif)  
 
 I learn how to use:  
-*    create collection view
-*    add Header / Footer view
-  
+*   create collection view
+*   add Header / Footer view
+
   
 </br>  
 
