@@ -7,7 +7,7 @@
 # Project & GIF  Demo  
 </br>  
 
-project 6_[navigationController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%206_navigationController)  
+project 6_[DetailView + NavigationController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%206_navigationController)  
 
 ![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%206_navigationController/navigationController.gif)  
 
@@ -17,6 +17,7 @@ I learn how to use:
 *   add hide navigation bar
 *   change status bar 
 *   change text font
+*   add Self Sizing Cells
 
 
 </br>  
