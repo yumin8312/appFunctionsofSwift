@@ -26,13 +26,14 @@
                                     <subviews>
                                         <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="k0y-nc-7rH">
                                             <constraints>
-                                                <constraint firstAttribute="width" constant="375" id="wQV-KT-U2o"/>
-                                                <constraint firstAttribute="height" constant="189" id="zS9-Sf-97h"/>
+                                                <constraint firstAttribute="height" constant="190" id="egQ-sd-IEY"/>
+                                                <constraint firstAttribute="width" constant="375" id="joG-IX-uDO"/>
                                             </constraints>
                                         </imageView>
                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iY0-SU-CTe">
                                             <constraints>
-                                                <constraint firstAttribute="height" constant="42" id="mqY-0x-ttC"/>
+                                                <constraint firstAttribute="width" constant="375" id="2Ft-Yy-RUb"/>
+                                                <constraint firstAttribute="height" constant="39" id="xcH-YH-RTe"/>
                                             </constraints>
                                             <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                             <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
@@ -40,11 +41,11 @@
                                         </label>
                                     </subviews>
                                     <constraints>
-                                        <constraint firstItem="iY0-SU-CTe" firstAttribute="trailing" secondItem="k0y-nc-7rH" secondAttribute="trailing" id="A1L-Xf-H1D"/>
-                                        <constraint firstItem="iY0-SU-CTe" firstAttribute="leading" secondItem="k0y-nc-7rH" secondAttribute="leading" id="LyC-iM-qTb"/>
                                         <constraint firstItem="k0y-nc-7rH" firstAttribute="top" secondItem="AyP-k7-3wA" secondAttribute="top" id="Qxg-m7-ouf"/>
-                                        <constraint firstAttribute="bottom" secondItem="iY0-SU-CTe" secondAttribute="bottom" id="Y6M-qj-0fX"/>
+                                        <constraint firstItem="iY0-SU-CTe" firstAttribute="leading" secondItem="k0y-nc-7rH" secondAttribute="leading" id="XKb-hx-Ws6"/>
+                                        <constraint firstAttribute="bottom" secondItem="iY0-SU-CTe" secondAttribute="bottom" id="gyd-4Z-vgO"/>
                                         <constraint firstAttribute="bottomMargin" secondItem="k0y-nc-7rH" secondAttribute="bottom" constant="32" id="iKu-Wm-jle"/>
+                                        <constraint firstItem="iY0-SU-CTe" firstAttribute="top" secondItem="k0y-nc-7rH" secondAttribute="bottom" id="oS1-sl-oxW"/>
                                         <constraint firstItem="k0y-nc-7rH" firstAttribute="leading" secondItem="AyP-k7-3wA" secondAttribute="leading" id="sz1-5V-hce"/>
                                         <constraint firstAttribute="trailing" secondItem="k0y-nc-7rH" secondAttribute="trailing" id="u5r-kd-TGF"/>
                                     </constraints>
@@ -65,7 +66,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="gOn-Tc-F0Q" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1007" y="851"/>
+            <point key="canvasLocation" x="1005.6" y="850.52473763118451"/>
         </scene>
         <!--Detail View Controller-->
         <scene sceneID="hOy-cS-sTw">
