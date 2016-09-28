@@ -16,6 +16,7 @@ I learn how to use:
 *   custom navigation bar
 *   add hide navigation bar
 *   change status bar 
+*   change text font
 
 
 </br>  
