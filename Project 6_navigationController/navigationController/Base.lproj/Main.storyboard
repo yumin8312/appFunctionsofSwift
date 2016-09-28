@@ -21,7 +21,7 @@
                                 <rect key="frame" x="0.0" y="92" width="375" height="230"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="6gg-Yb-ZMi" id="AyP-k7-3wA">
-                                    <frame key="frameInset" width="375" height="229"/>
+                                    <frame key="frameInset" width="375" height="230"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="k0y-nc-7rH"/>
@@ -84,7 +84,7 @@
                                         <rect key="frame" x="0.0" y="28" width="375" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="8mM-d3-3d4" id="DTN-gv-DmP">
-                                            <frame key="frameInset" width="375" height="43"/>
+                                            <frame key="frameInset" width="375" height="44"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="zIB-2h-LiV">
@@ -94,7 +94,7 @@
                                                             <nil key="textColor"/>
                                                             <nil key="highlightedColor"/>
                                                         </label>
-                                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="value" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NbP-v3-ehu">
+                                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="value" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NbP-v3-ehu">
                                                             <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                             <nil key="textColor"/>
                                                             <nil key="highlightedColor"/>
@@ -106,9 +106,11 @@
                                                 </stackView>
                                             </subviews>
                                             <constraints>
+                                                <constraint firstAttribute="bottomMargin" secondItem="zIB-2h-LiV" secondAttribute="bottom" constant="4" id="Gx3-GL-NaA"/>
                                                 <constraint firstAttribute="leadingMargin" secondItem="zIB-2h-LiV" secondAttribute="leading" id="RWK-tq-pNT"/>
                                                 <constraint firstItem="zIB-2h-LiV" firstAttribute="centerY" secondItem="DTN-gv-DmP" secondAttribute="centerY" id="Urm-2x-Y0R"/>
                                                 <constraint firstAttribute="trailingMargin" secondItem="zIB-2h-LiV" secondAttribute="trailing" id="bPC-cA-Wmn"/>
+                                                <constraint firstItem="zIB-2h-LiV" firstAttribute="top" secondItem="DTN-gv-DmP" secondAttribute="topMargin" constant="3.5" id="bzB-xR-svv"/>
                                             </constraints>
                                         </tableViewCellContentView>
                                         <connections>
@@ -118,8 +120,8 @@
                                     </tableViewCell>
                                 </prototypes>
                                 <connections>
-                                    <outlet property="dataSource" destination="4r5-ft-Hct" id="LoK-fE-oFf"/>
-                                    <outlet property="delegate" destination="4r5-ft-Hct" id="Yjd-7h-wsy"/>
+                                    <outlet property="dataSource" destination="4r5-ft-Hct" id="YD7-ng-LuC"/>
+                                    <outlet property="delegate" destination="4r5-ft-Hct" id="bVu-6E-1lS"/>
                                 </connections>
                             </tableView>
                         </subviews>
@@ -133,6 +135,7 @@
                     </view>
                     <connections>
                         <outlet property="detailimaged" destination="3gY-XT-3FT" id="NO7-W9-MHk"/>
+                        <outlet property="tableView" destination="yR3-bK-tBF" id="eEJ-Fq-6bS"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="xcg-Iy-BVi" userLabel="First Responder" sceneMemberID="firstResponder"/>

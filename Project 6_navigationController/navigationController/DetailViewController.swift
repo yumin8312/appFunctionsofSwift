@@ -11,15 +11,22 @@ import UIKit
 class DetailViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
     
     @IBOutlet weak var detailimaged: UIImageView!
+    @IBOutlet weak var tableView: UITableView!
     
     var detailimages = ""
     var detailname = ""
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         detailimaged.image = UIImage(named: detailimages)
         title = detailname
+        
+        //start up  self sizing cells
+        tableView.estimatedRowHeight = 36.0
+        tableView.rowHeight = UITableViewAutomaticDimension
+        
     }
     
     override func viewWillAppear(_ animated: Bool) {
@@ -38,7 +45,7 @@ class DetailViewController: UIViewController, UITableViewDataSource, UITableView
     }
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return 4
+        return 5
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
@@ -57,6 +64,9 @@ class DetailViewController: UIViewController, UITableViewDataSource, UITableView
         case 3:
             cell.detailnameLabel.text = "Date :"
             cell.detailvalueLabel.text = ""
+        case 4:
+            cell.detailnameLabel.text = "Cell test :"
+            cell.detailvalueLabel.text = "***-Cell的自適應調整及動態型態-0123456789-abcdefghijklmnopqrstuvwxyz-***"
         default:
             cell.detailnameLabel.text = ""
             cell.detailvalueLabel.text = ""
