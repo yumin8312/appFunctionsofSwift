@@ -7,9 +7,9 @@
 # Project & GIF  Demo  
 </br>  
 
-project 6_[DetailView + NavigationController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%206_navigationController)  
+project 6_[DetailView + NavigationController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%206_DetailView%26navigationController)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%206_navigationController/navigationController.gif)  
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%206_DetailView%26navigationController/navigationController.gif)  
 
 I learn how to use:  
 *   create Detail view
