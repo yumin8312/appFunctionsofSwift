@@ -5,6 +5,18 @@
 這是我自己額外寫的[Blog](https://medium.com/@yumin8312)
 
 # Project & GIF  Demo  
+  
+</br>  
+
+project 7_[baseAnimation](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%207_baseAnimation)  
+
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%207_baseAnimation/baseAnimation.gif)  
+
+I learn how to use:  
+*   base animation 
+*   Bezier curve
+
+
 </br>  
 
 project 6_[DetailView + NavigationController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%206_DetailView%26navigationController)  
