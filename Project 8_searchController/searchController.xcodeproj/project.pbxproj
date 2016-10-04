@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7E3297A51DA374CA00BBDABF /* searchController-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "searchController-Bridging-Header.h"; sourceTree = "<group>"; };
 		7EF1BEB81DA36E6800A0F687 /* searchController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = searchController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EF1BEBB1DA36E6800A0F687 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7EF1BEBD1DA36E6800A0F687 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +61,7 @@
 				7EF1BEC21DA36E6800A0F687 /* Assets.xcassets */,
 				7EF1BEC41DA36E6800A0F687 /* LaunchScreen.storyboard */,
 				7EF1BEC71DA36E6800A0F687 /* Info.plist */,
+				7E3297A51DA374CA00BBDABF /* searchController-Bridging-Header.h */,
 			);
 			path = searchController;
 			sourceTree = "<group>";
@@ -299,6 +301,7 @@
 				7EF1BECC1DA36E6800A0F687 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
