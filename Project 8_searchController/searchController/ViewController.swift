@@ -2,14 +2,14 @@
 //  ViewController.swift
 //  searchController
 //
-//  Created by yumin on 2016/10/3.
+//  Created by yumin on 2016/10/4.
 //  Copyright © 2016年 yumin. All rights reserved.
 //
 
 import UIKit
 
 class ViewController: UIViewController, UITableViewDataSource, UITableViewDelegate, UISearchResultsUpdating {
-
+    
     var searchController : UISearchController!
     
     @IBOutlet var tableView: UITableView!
@@ -29,15 +29,26 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         //custom search bar
         
         searchController.dimsBackgroundDuringPresentation = true
-       // searchController.searchBar.prompt = "就是這一行文字..."
+        // searchController.searchBar.prompt = "就是這一行文字..."
         searchController.searchBar.placeholder = "Search here..."
         searchController.searchBar.tintColor = UIColor.orange
         searchController.searchBar.barTintColor = UIColor(red: 30.0/255.0, green: 30.0/255.0, blue: 30.0/255.0, alpha: 1.0)
         
-        
+//        let startPoint = CGPointMake(0.0, frame.size.height)
+//        let endPoint = CGPointMake(frame.size.width, frame.size.height)
+//        let path = UIBezierPath()
+//        path.moveToPoint(startPoint)
+//        path.addLineToPoint(endPoint)
+//        
+//        let shapeLayer = CAShapeLayer()
+//        shapeLayer.path = path.cgPath
+//        shapeLayer.strokeColor = preferredTextColor.CGColor
+//        shapeLayer.lineWidth = 2.5
+//        
+//        layer.addSublayer(shapeLayer)
         
     }
-
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.

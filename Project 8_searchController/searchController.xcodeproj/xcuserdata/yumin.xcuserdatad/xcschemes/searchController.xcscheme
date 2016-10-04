@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7E33681A1DA21E4800FB7C6F"
+               BlueprintIdentifier = "7EF1BEB71DA36E6800A0F687"
                BuildableName = "searchController.app"
                BlueprintName = "searchController"
                ReferencedContainer = "container:searchController.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7E33681A1DA21E4800FB7C6F"
+            BlueprintIdentifier = "7EF1BEB71DA36E6800A0F687"
             BuildableName = "searchController.app"
             BlueprintName = "searchController"
             ReferencedContainer = "container:searchController.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7E33681A1DA21E4800FB7C6F"
+            BlueprintIdentifier = "7EF1BEB71DA36E6800A0F687"
             BuildableName = "searchController.app"
             BlueprintName = "searchController"
             ReferencedContainer = "container:searchController.xcodeproj">
@@ -81,7 +81,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7E33681A1DA21E4800FB7C6F"
+            BlueprintIdentifier = "7EF1BEB71DA36E6800A0F687"
             BuildableName = "searchController.app"
             BlueprintName = "searchController"
             ReferencedContainer = "container:searchController.xcodeproj">
