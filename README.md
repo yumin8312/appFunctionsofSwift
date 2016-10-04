@@ -8,6 +8,17 @@
 
 </br>  
 
+project 9_[PageViewController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%209_PageViewController)  
+
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%209_PageViewController/PageViewController.gif)  
+
+I learn how to use:  
+*   UIPageViewController create guide view
+*   custom page control 
+
+
+</br>  
+
 project 8_[searchController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%208_searchController)  
 
 ![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%208_searchController/searchController.gif)  
