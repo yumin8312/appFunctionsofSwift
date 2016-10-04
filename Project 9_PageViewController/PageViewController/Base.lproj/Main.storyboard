@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11201" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="os6-Hv-w8C">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Content View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController storyboardIdentifier="contentviewcontroller" id="BYZ-38-t0r" customClass="ContentViewController" customModule="PageViewController" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="SunRise" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SBo-XQ-WNF">
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="40" id="Ytu-2g-Fow"/>
+                                    <constraint firstAttribute="width" constant="125" id="mV7-3w-69O"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Papyrus" family="Papyrus" pointSize="24"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="gU0-Zb-xrl">
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="275" id="PL5-xb-f4o"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Do you have ever been to there ? if not , hurry go right now . " textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jWh-pg-xl9">
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="282" id="HCC-a6-WVv"/>
+                                    <constraint firstAttribute="height" constant="64" id="WDr-0U-VNc"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="19"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" translatesAutoresizingMaskIntoConstraints="NO" id="2qS-Ii-jmt">
+                                <color key="pageIndicatorTintColor" red="0.0" green="1" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="currentPageIndicatorTintColor" red="0.78539663459999998" green="0.0" blue="0.0073526912969999999" alpha="1" colorSpace="calibratedRGB"/>
+                            </pageControl>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ghA-wL-3fn">
+                                <frame key="frameInset" minX="292" minY="622" width="67" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="nextButtonTappedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3Ai-Ef-lht"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.010419474119999999" green="0.010568686549999999" blue="0.010482330749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="gU0-Zb-xrl" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="3sH-kf-iE5"/>
+                            <constraint firstItem="SBo-XQ-WNF" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="6Tj-gp-0ch"/>
+                            <constraint firstItem="SBo-XQ-WNF" firstAttribute="centerX" secondItem="jWh-pg-xl9" secondAttribute="centerX" id="94O-ea-iQF"/>
+                            <constraint firstItem="jWh-pg-xl9" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="9a9-Sf-9ff"/>
+                            <constraint firstItem="2qS-Ii-jmt" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="P54-8G-0vU"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="2qS-Ii-jmt" secondAttribute="bottom" constant="8" id="S9S-D6-l5T"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="jWh-pg-xl9" secondAttribute="bottom" constant="54" id="Vbu-eV-DTR"/>
+                            <constraint firstItem="gU0-Zb-xrl" firstAttribute="centerX" secondItem="SBo-XQ-WNF" secondAttribute="centerX" id="WPr-M6-GlT"/>
+                            <constraint firstItem="gU0-Zb-xrl" firstAttribute="top" secondItem="SBo-XQ-WNF" secondAttribute="bottom" constant="76" id="Ygq-wc-8NF"/>
+                            <constraint firstItem="SBo-XQ-WNF" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="29" id="wob-Px-lA0"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="contentImageview" destination="gU0-Zb-xrl" id="bmE-R1-A2f"/>
+                        <outlet property="contentLabel" destination="jWh-pg-xl9" id="tpp-x0-kGy"/>
+                        <outlet property="forwardButton" destination="ghA-wL-3fn" id="i8I-gQ-tRs"/>
+                        <outlet property="headLabel" destination="SBo-XQ-WNF" id="bLB-gp-POa"/>
+                        <outlet property="pageControl" destination="2qS-Ii-jmt" id="5hP-hR-c0I"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1789.5999999999999" y="122.78860569715144"/>
+        </scene>
+        <!--Table View Controller-->
+        <scene sceneID="5KB-C2-swb">
+            <objects>
+                <tableViewController id="os6-Hv-w8C" customClass="TableViewController" customModule="PageViewController" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="jqr-Yb-bIj">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="Cell" id="p8k-U7-gnE">
+                                <rect key="frame" x="0.0" y="28" width="375" height="44"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="p8k-U7-gnE" id="Dsc-za-MHK">
+                                    <frame key="frameInset" width="375" height="43"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                </tableViewCellContentView>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="os6-Hv-w8C" id="xlI-50-zeg"/>
+                            <outlet property="delegate" destination="os6-Hv-w8C" id="CIb-Dx-b6b"/>
+                        </connections>
+                    </tableView>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="nwA-JO-gqQ" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="220" y="123"/>
+        </scene>
+        <!--Page View Controller-->
+        <scene sceneID="prr-8H-yIE">
+            <objects>
+                <pageViewController storyboardIdentifier="pageviewcontroller" autoresizesArchivedViewToFullSize="NO" transitionStyle="scroll" navigationOrientation="horizontal" spineLocation="none" id="upl-2c-5VA" customClass="PageViewController" customModule="PageViewController" customModuleProvider="target" sceneMemberID="viewController"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ME2-S9-U7n" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="983" y="123"/>
+        </scene>
+    </scenes>
+</document>
