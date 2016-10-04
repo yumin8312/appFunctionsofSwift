@@ -5,7 +5,18 @@
 這是我自己額外寫的[Blog](https://medium.com/@yumin8312)
 
 # Project & GIF  Demo  
+
+</br>  
+
+project 8_[searchController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%208_searchController)  
+
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%208_searchController/searchController.gif)  
+
+I learn how to use:  
+*   add search bar in your app 
+*   custom search bar
   
+
 </br>  
 
 project 7_[baseAnimation](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%207_baseAnimation)  
