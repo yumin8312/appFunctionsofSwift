@@ -28,11 +28,13 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         
         //custom search bar
         
-//        searchController.dimsBackgroundDuringPresentation = true
-//        searchController.searchBar.prompt = "就是這一行文字..."
-//        searchController.searchBar.placeholder = "Search here..."
-//        searchController.searchBar.tintColor = UIColor.red
-//        searchController.searchBar.barTintColor = UIColor(red: 30.0/255.0, green: 30.0/255.0, blue: 30.0/255.0, alpha: 1.0)
+        searchController.dimsBackgroundDuringPresentation = true
+       // searchController.searchBar.prompt = "就是這一行文字..."
+        searchController.searchBar.placeholder = "Search here..."
+        searchController.searchBar.tintColor = UIColor.orange
+        searchController.searchBar.barTintColor = UIColor(red: 30.0/255.0, green: 30.0/255.0, blue: 30.0/255.0, alpha: 1.0)
+        
+        
         
     }
 
