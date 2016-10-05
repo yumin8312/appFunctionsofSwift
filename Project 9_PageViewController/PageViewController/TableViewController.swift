@@ -26,15 +26,12 @@ class TableViewController: UITableViewController {
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
         
-        
         // 回傳至 contentViewController.swift  -> colse()
 //        let defaults = UserDefaults.standard(UserDefaults)
 //        let hasViewedWalkthough = defaults.boolForKey("hasViewedWalkthough")
 //        if hasViewedWalkthough {
 //            return
 //        }
-        
-        
         
         if let pageViewController = storyboard?.instantiateViewController(withIdentifier: "pageviewcontroller") as? PageViewController {
             present(pageViewController, animated: true, completion: nil)

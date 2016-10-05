@@ -8,7 +8,7 @@
 
 
 import UIKit
-import CoreData
+
 class ContentViewController: UIViewController {
 
     @IBOutlet weak var headLabel: UILabel!
