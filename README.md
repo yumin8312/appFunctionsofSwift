@@ -5,12 +5,22 @@
 這是我自己額外寫的[Blog](https://medium.com/@yumin8312)
 
 # Project & GIF  Demo  
+</br>  
+
+project 10_[TabBarController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2010_TabBarController)  
+
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2010_TabBarController/TabBarController.gif)  
+
+I learn how to use:  
+*   add tab bar in app
+*   custom tab bar and tab 
+
 
 </br>  
 
-project 9_[PageViewController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%209_PageViewController)  
+project 09_[PageViewController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2009_PageViewController)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%209_PageViewController/PageViewController.gif)  
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2009_PageViewController/PageViewController.gif)  
 
 I learn how to use:  
 *   UIPageViewController create guide view
@@ -19,9 +29,9 @@ I learn how to use:
 
 </br>  
 
-project 8_[searchController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%208_searchController)  
+project 08_[searchController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2008_searchController)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%208_searchController/searchController.gif)  
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2008_searchController/searchController.gif)  
 
 I learn how to use:  
 *   add search bar in your app 
@@ -30,9 +40,9 @@ I learn how to use:
 
 </br>  
 
-project 7_[baseAnimation](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%207_baseAnimation)  
+project 07_[baseAnimation](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2007_baseAnimation)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%207_baseAnimation/baseAnimation.gif)  
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2007_baseAnimation/baseAnimation.gif)  
 
 I learn how to use:  
 *   base animation 
@@ -41,9 +51,9 @@ I learn how to use:
 
 </br>  
 
-project 6_[DetailView + NavigationController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%206_DetailView%26navigationController)  
+project 06_[DetailView + NavigationController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2006_DetailView%26navigationController)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%206_DetailView%26navigationController/navigationController.gif)  
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2006_DetailView%26navigationController/navigationController.gif)  
 
 I learn how to use:  
 *   create Detail view
@@ -56,9 +66,9 @@ I learn how to use:
 
 </br>  
 
-project 5_[collectionCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%205_collectionCell)  
+project 05_[collectionCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2005_collectionCell)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%205_collectionCell/collectionCell.gif)  
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2005_collectionCell/collectionCell.gif)  
 
 I learn how to use:  
 *   create collection view
@@ -67,9 +77,9 @@ I learn how to use:
   
 </br>  
 
-project 4_[alertAction](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%204_alertAction)  
+project 04_[alertAction](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2004_alertAction)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%204_alertAction/alertAction.gif)  
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2004_alertAction/alertAction.gif)  
 
 I learn how to use:  
 *   create alert action 
@@ -79,9 +89,9 @@ I learn how to use:
 
 </br>  
 
-project 3_[swipeableCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%203_swipeableCell)  
+project 03_[swipeableCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2003_swipeableCell)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%203_swipeableCell/swipeableCell.gif)  
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2003_swipeableCell/swipeableCell.gif)  
 
 I learn how to use:  
 *  create row action 
@@ -91,10 +101,10 @@ I learn how to use:
 
 
 </br> 
+       
+project 02_[customCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2002_customCell)  
 
-project 2_[customCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%202_customCell)  
-
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%202_customCell/customCell.gif)  
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2002_customCell/customCell.gif)  
 
 I learn how to use:  
 *  create custom cell
@@ -103,9 +113,9 @@ I learn how to use:
 
 </br>  
 
-project 1_[baseCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%201_baseCell)  
+project 01_[baseCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2001_baseCell)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%201_baseCell/baseCell.gif)  
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2001_baseCell/baseCell.gif)  
 
 I learn how to use:  
 *  create base cell
