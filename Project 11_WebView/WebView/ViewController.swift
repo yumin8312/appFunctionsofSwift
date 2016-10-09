@@ -39,9 +39,9 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         if section == 0 {
             return 2
-        }else if section == 1{
+        } else if section == 1 {
             return 3
-        }else{
+        } else {
             return 4
         }
     }
