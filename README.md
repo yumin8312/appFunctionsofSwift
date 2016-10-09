@@ -8,6 +8,19 @@
 
 </br>  
 
+project 12_[TextInput](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2012_TextInput)  
+
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2012_TextInput/TextInput.gif)  
+
+I learn how to use:  
+*   display / hide  virtual keyboard
+*   text field and text view Character limit
+*   text view Character enlarge/Bold/Italic
+*   change frame corner radius 
+
+
+</br>  
+
 project 11_[WebView](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2011_WebView)  
 
 ![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2011_WebView/WebView.gif)  
