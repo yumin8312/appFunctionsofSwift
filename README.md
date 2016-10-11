@@ -8,6 +8,19 @@
 
 </br>  
 
+project 13_[side-out menu](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2013_side-out%20menu)  
+
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2013_side-out%20menu/side-out%20menu.gif)  
+
+I learn how to use:  
+*   create base side-out menu 
+*   
+
+
+
+
+</br>  
+
 project 12_[TextInput](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2012_TextInput)  
 
 ![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2012_TextInput/TextInput.gif)  
