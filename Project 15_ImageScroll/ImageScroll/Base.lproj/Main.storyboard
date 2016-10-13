@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11201" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="ImageScroll" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" minimumZoomScale="0.5" maximumZoomScale="5" translatesAutoresizingMaskIntoConstraints="NO" id="iHo-21-COW">
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ButterflyBridge" translatesAutoresizingMaskIntoConstraints="NO" id="3QV-RK-nkl"/>
+                                </subviews>
+                                <color key="backgroundColor" red="0.010419474119999999" green="0.010568686549999999" blue="0.010482330749999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstItem="3QV-RK-nkl" firstAttribute="centerX" secondItem="iHo-21-COW" secondAttribute="centerX" id="2Az-5l-o8o"/>
+                                    <constraint firstItem="3QV-RK-nkl" firstAttribute="centerY" secondItem="iHo-21-COW" secondAttribute="centerY" id="Rx8-eD-MVT"/>
+                                    <constraint firstAttribute="bottom" secondItem="3QV-RK-nkl" secondAttribute="bottom" id="TQG-jd-VSA"/>
+                                    <constraint firstItem="3QV-RK-nkl" firstAttribute="top" secondItem="iHo-21-COW" secondAttribute="top" id="Vyq-mw-fAP"/>
+                                    <constraint firstAttribute="trailing" secondItem="3QV-RK-nkl" secondAttribute="trailing" id="fQb-s1-sWK"/>
+                                    <constraint firstItem="3QV-RK-nkl" firstAttribute="leading" secondItem="iHo-21-COW" secondAttribute="leading" id="lEM-AJ-cje"/>
+                                </constraints>
+                                <connections>
+                                    <outlet property="delegate" destination="BYZ-38-t0r" id="8Rr-c3-62U"/>
+                                </connections>
+                            </scrollView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="iHo-21-COW" secondAttribute="trailing" id="Gc5-PU-yf0"/>
+                            <constraint firstItem="iHo-21-COW" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="HuD-eS-vfu"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="iHo-21-COW" secondAttribute="bottom" id="nq8-AB-6Zg"/>
+                            <constraint firstItem="iHo-21-COW" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="u2i-pD-rJb"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="image" destination="3QV-RK-nkl" id="f1o-yo-NXd"/>
+                        <outlet property="scrollview" destination="iHo-21-COW" id="675-KW-CH4"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="117.59999999999999" y="122.78860569715144"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="ButterflyBridge" width="512" height="512"/>
+    </resources>
+</document>
