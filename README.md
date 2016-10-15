@@ -12,6 +12,20 @@
 
 </br>  
 
+project 16_[Splash](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2016_Splash)  
+
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2016_Splash/Splash.gif)  
+
+I learn how to use:  
+*   create launch icon 
+*   create launch screen
+*   create launch screen splash Animation
+
+
+
+
+</br>  
+
 project 15_[ImageScroll](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2015_ImageScroll)  
 
 ![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2015_ImageScroll/ImageScroll.gif)  
