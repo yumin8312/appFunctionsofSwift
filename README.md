@@ -6,9 +6,21 @@
   
 註：  
 (1)圖片來源都是自己所拍,若不是,會在bolg另標記出處  
-(2)因製成gif檔,所以圖片才會有色差
+(2)因製成GIF,所以圖片會出現色差
 
 # Project & GIF  Demo  
+
+</br>  
+
+project 17_[localphoto and videoplayer and video background](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2017_localPhotoandVideo)  
+
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2017_localPhotoandVideo/localPhotoandVideo.gif)  
+
+I learn how to use:  
+*   open and choose local album
+*   create video player
+*   create video background
+
 
 </br>  
 
@@ -22,8 +34,6 @@ I learn how to use:
 *   create launch screen splash Animation
 
 
-
-
 </br>  
 
 project 15_[ImageScroll](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2015_ImageScroll)  
@@ -32,8 +42,6 @@ project 15_[ImageScroll](https://github.com/yumin8312/appFunctionsofSwift/tree/m
 
 I learn how to use:  
 *   create scroll view to image 
-*   
-
 
 
 </br>  
