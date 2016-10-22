@@ -12,6 +12,18 @@
 
 </br>  
 
+project 19_[Mosaic Layout](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2019_MosaicLayout)  
+
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2019_MosaicLayout/MosaicLayout.gif)  
+
+I learn how to use:  
+*   achieve cell different size
+*   mosaic effect
+*   cocoapods(firsttime)
+
+
+</br>  
+
 project 18_[Jump Bar](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2018_jumpbar)  
 
 ![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2018_jumpbar/jumpbar.gif)  
