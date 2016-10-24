@@ -6,9 +6,22 @@
   
 註：  
 (1)圖片來源都是自己所拍,若不是,會在bolg另標記出處  
-(2)因製成GIF,所以圖片會出現色差
+(2)因製成GIF,所以圖片會出現色差(Due to make GIF, so the picture will appear color difference)
 
 # Project & GIF  Demo  
+
+</br>  
+
+project 20_[Carousel Effect](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2020_CarouselEffect)  
+
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2020_CarouselEffect/CarouselEffect.gif)  
+
+I learn how to use:  
+*   Carousel Effect
+*   horizontal collection view
+*   Custom class
+*   visual effect view with blur
+
 
 </br>  
 
