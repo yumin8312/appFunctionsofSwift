@@ -12,6 +12,17 @@
 
 </br>  
 
+project 21_[Core Data_BaseDemo](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2021_exCoreData)  
+
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2021_exCoreData/exCoreData.gif)  
+
+I learn how to use:  
+*   Core Data
+*   core data(insert/delete/updata)
+
+
+</br>  
+
 project 20_[Carousel Effect](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2020_CarouselEffect)  
 
 ![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2020_CarouselEffect/CarouselEffect.gif)  
