@@ -54,6 +54,7 @@ class TableViewController: UITableViewController {
         //gain AppDelegate object
         let appDelegate = UIApplication.shared.delegate as? AppDelegate
         let managedContext = appDelegate?.persistentContainer.viewContext
+        
         //call insert NewObject for Entity For Name  -> create managedObject
         let entity = NSEntityDescription.entity(forEntityName: "ListEntity", in: managedContext!)
         let item = NSManagedObject(entity: entity!, insertInto: managedContext)
