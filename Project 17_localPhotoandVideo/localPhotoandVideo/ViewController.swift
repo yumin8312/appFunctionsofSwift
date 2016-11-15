@@ -24,7 +24,7 @@ class ViewController: UIViewController, UINavigationControllerDelegate, UIImageP
         
         
         //video view
-        let fileURL = NSURL(fileURLWithPath: "/Users/min/Documents/localPhotoandVideo/localPhotoandVideo/Wildlife.mp4")
+        let fileURL = NSURL(fileURLWithPath: "/Users/min/Documents/GitHub/appFunctionsofSwift/Project 17_localPhotoandVideo/localPhotoandVideo/Wildlife.mp4")
         
         webview.loadHTMLString("<iframe width = \" \(self.webview.frame.width) \" height =  \" \(self.webview.frame.height)\" src= \"\(fileURL)\"> </iframe>" , baseURL: nil)
     }
