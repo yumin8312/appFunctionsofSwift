@@ -1,12 +1,12 @@
 # appFunctionsofSwift
 
-這 appFunctionsofSwift repository 是我練習所做的Demo.或許你已經在其他地方看過類似的,  
-但這其實都是App的基礎功能,所以想透過這些Demo,來記錄自己自學的情況.  
-這是我自己額外寫的[Blog](https://medium.com/@yumin8312/yumins-all-of-stories-quick-links-9e46b6e479bc#.hdazky2sa)  
+這是我練習所做的基礎功能Demo.或許你已經在其他地方看過類似的,  
+而我想透過這些Demo,來記錄自己自學的情況.  
+這是我自己額外寫的[Medium Blog](https://medium.com/@yumin8312/yumins-all-of-stories-quick-links-9e46b6e479bc#.hdazky2sa)  
   
 註：  
-(1)圖片來源都是自己所拍,若不是,會在bolg另標記出處  
-(2)因製成GIF,所以圖片會出現色差(Due to make GIF, so the picture will appear color difference)
+圖片來源都是自己所拍,若不是,會在bolg另標記出處  
+
 
 # Project & GIF  Demo  
 
