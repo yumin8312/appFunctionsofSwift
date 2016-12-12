@@ -14,7 +14,7 @@
 
 project 21_[Core Data_BaseDemo](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2021_exCoreData)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2021_exCoreData/exCoreData.gif)  
+![image](http://i.giphy.com/3oz8xElicuZxmTDgeA.gif)  
 
 I learn how to use:  
 *   Core Data
@@ -25,7 +25,7 @@ I learn how to use:
 
 project 20_[Carousel Effect](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2020_CarouselEffect)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2020_CarouselEffect/CarouselEffect.gif)  
+![image](https://media.giphy.com/media/l4JySe1bfeiapk4UM/source.gif)  
 
 I learn how to use:  
 *   Carousel Effect
@@ -38,7 +38,7 @@ I learn how to use:
 
 project 19_[Mosaic Layout](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2019_MosaicLayout)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2019_MosaicLayout/MosaicLayout.gif)  
+![image](https://media.giphy.com/media/26FL2mZv2GvbIwA1i/source.gif)  
 
 I learn how to use:  
 *   achieve cell different size
@@ -50,7 +50,7 @@ I learn how to use:
 
 project 18_[Jump Bar](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2018_jumpbar)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2018_jumpbar/jumpbar.gif)  
+![image](https://media.giphy.com/media/l4JySxRIYJXgViSEU/source.gif)  
 
 I learn how to use:  
 *   create like iphone's Contact information inside sideBar(A-Z)
@@ -60,7 +60,7 @@ I learn how to use:
 
 project 17_[localphoto and videoplayer and video background](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2017_localPhotoandVideo)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2017_localPhotoandVideo/localPhotoandVideo.gif)  
+![image](https://media.giphy.com/media/26FL25XPOh8MFbKaA/source.gif)  
 
 I learn how to use:  
 *   open and choose local album
@@ -72,7 +72,7 @@ I learn how to use:
 
 project 16_[Splash](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2016_Splash)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2016_Splash/Splash.gif)  
+![image](https://media.giphy.com/media/l4Jzc8j0OdIkQUWLS/source.gif)  
 
 I learn how to use:  
 *   create launch icon 
@@ -84,7 +84,7 @@ I learn how to use:
 
 project 15_[ImageScroll](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2015_ImageScroll)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2015_ImageScroll/ImageScroll.gif)  
+![image](https://media.giphy.com/media/l4JyLsPHLXA4cP4w8/source.gif)  
 
 I learn how to use:  
 *   create scroll view to image 
@@ -94,7 +94,7 @@ I learn how to use:
 
 project 14_[Pull to Refresh](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2014_PulltoRefresh)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2014_PulltoRefresh/PulltoRefresh.gif)  
+![image](https://media.giphy.com/media/l4JyTcjkcuBLyoL28/source.gif)  
 
 I learn how to use:  
 *   create base Refresh action 
@@ -105,7 +105,7 @@ I learn how to use:
 
 project 13_[side-out menu](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2013_side-out%20menu)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2013_side-out%20menu/side-out%20menu.gif)  
+![image](https://media.giphy.com/media/26FLfMRGQEOZZbDkQ/source.gif)  
 
 I learn how to use:  
 *   create base side-out menu  
@@ -115,7 +115,7 @@ I learn how to use:
 
 project 12_[TextInput](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2012_TextInput)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2012_TextInput/TextInput.gif)  
+![image](http://i.giphy.com/l4JzajNom3ENyz864.gif)  
 
 I learn how to use:  
 *   display / hide  virtual keyboard
@@ -128,7 +128,7 @@ I learn how to use:
 
 project 11_[WebView](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2011_WebView)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2011_WebView/WebView.gif)  
+![image](http://i.giphy.com/l4JyWQo56ZS4exhe0.gif)  
 
 I learn how to use:  
 *   display webview on the app
@@ -139,7 +139,7 @@ I learn how to use:
 
 project 10_[TabBarController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2010_TabBarController)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2010_TabBarController/TabBarController.gif)  
+![image](https://media.giphy.com/media/l4JyKwNn7m5TYB0Fq/source.gif)  
 
 I learn how to use:  
 *   add tab bar in app
@@ -150,7 +150,7 @@ I learn how to use:
 
 project 09_[PageViewController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2009_PageViewController)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2009_PageViewController/PageViewController.gif)  
+![image](https://media.giphy.com/media/l4Jzf7YhMIzNFgel2/source.gif)  
 
 I learn how to use:  
 *   UIPageViewController create guide view
@@ -161,7 +161,7 @@ I learn how to use:
 
 project 08_[searchController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2008_searchController)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2008_searchController/searchController.gif)  
+![image](https://media.giphy.com/media/26FLj3T98g9NI6Vmo/source.gif)  
 
 I learn how to use:  
 *   add search bar in your app 
@@ -172,7 +172,7 @@ I learn how to use:
 
 project 07_[baseAnimation](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2007_baseAnimation)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2007_baseAnimation/baseAnimation.gif)  
+![image](https://media.giphy.com/media/l4JyZ8hT7icIC9Mje/source.gif)  
 
 I learn how to use:  
 *   base animation 
@@ -183,7 +183,7 @@ I learn how to use:
 
 project 06_[DetailView + NavigationController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2006_DetailView%26navigationController)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2006_DetailView%26navigationController/navigationController.gif)  
+![image](https://media.giphy.com/media/l4Jz4VRB7NvY0H9io/source.gif)  
 
 I learn how to use:  
 *   create Detail view
@@ -198,7 +198,7 @@ I learn how to use:
 
 project 05_[collectionCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2005_collectionCell)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2005_collectionCell/collectionCell.gif)  
+![image](https://media.giphy.com/media/l4JyVzJfLF34Dizo4/source.gif)  
 
 I learn how to use:  
 *   create collection view
@@ -209,7 +209,7 @@ I learn how to use:
 
 project 04_[alertAction](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2004_alertAction)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2004_alertAction/alertAction.gif)  
+![image](https://media.giphy.com/media/26FL2BfR3npn414fS/source.gif)  
 
 I learn how to use:  
 *   create alert action 
@@ -221,7 +221,7 @@ I learn how to use:
 
 project 03_[swipeableCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2003_swipeableCell)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2003_swipeableCell/swipeableCell.gif)  
+![image](https://media.giphy.com/media/26FLj69wr8tx9EbCM/source.gif)  
 
 I learn how to use:  
 *  create row action 
@@ -234,7 +234,7 @@ I learn how to use:
        
 project 02_[customCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2002_customCell)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2002_customCell/customCell.gif)  
+![image](https://media.giphy.com/media/l4JzcAPA2i3HQPhUA/source.gif)  
 
 I learn how to use:  
 *  create custom cell
