@@ -25,7 +25,7 @@ I learn how to use:
 
 project 20_[Carousel Effect](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2020_CarouselEffect)  
 
-![image](http://gph.to/2gsBnZ1)  
+![image](http://i.giphy.com/l4JySe1bfeiapk4UM.gif)  
 
 I learn how to use:  
 *   Carousel Effect
