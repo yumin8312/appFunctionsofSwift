@@ -25,7 +25,7 @@ I learn how to use:
 
 project 20_[Carousel Effect](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2020_CarouselEffect)  
 
-![image](http://i.giphy.com/l4JySe1bfeiapk4UM.gif)  
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2020_CarouselEffect/CarouselEffect.gif)  
 
 I learn how to use:  
 *   Carousel Effect
@@ -60,7 +60,7 @@ I learn how to use:
 
 project 17_[localphoto and videoplayer and video background](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2017_localPhotoandVideo)  
 
-![image](https://media.giphy.com/media/26FL25XPOh8MFbKaA/source.gif)  
+![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2017_localPhotoandVideo/localPhotoandVideo.gif)  
 
 I learn how to use:  
 *   open and choose local album
