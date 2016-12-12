@@ -245,7 +245,7 @@ I learn how to use:
 
 project 01_[baseCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2001_baseCell)  
 
-![image](https://github.com/yumin8312/appFunctionsofSwift/blob/master/Project%2001_baseCell/baseCell.gif)  
+![image](https://media.giphy.com/media/l0HlCSxxqJdJNfkB2/source.gif)  
 
 I learn how to use:  
 *  create base cell
