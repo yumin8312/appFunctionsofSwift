@@ -139,7 +139,7 @@ I learn how to use:
 
 project 09_[TabBarController](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2019_TabBarController)  
 
-![image](https://media.giphy.com/media/l4JyKwNn7m5TYB0Fq/source.gif)  
+![image](http://i.giphy.com/l4JyKwNn7m5TYB0Fq.gif)  
 
 I learn how to use:  
 *   add tab bar in app
@@ -198,7 +198,7 @@ I learn how to use:
 
 project 04_[collectionCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2004_collectionCell)
 
-![image](https://media.giphy.com/media/l4JyVzJfLF34Dizo4/source.gif)  
+![image](http://i.giphy.com/l4JyVzJfLF34Dizo4.gif)  
 
 I learn how to use:  
 *   create collection view
@@ -221,7 +221,7 @@ I learn how to use:
 
 project 02_[swipeableCell](https://github.com/yumin8312/appFunctionsofSwift/tree/master/Project%2002_swipeableCell)  
 
-![image](https://media.giphy.com/media/26FLj69wr8tx9EbCM/source.gif)  
+![image](http://i.giphy.com/26FLj69wr8tx9EbCM.gif)  
 
 I learn how to use:  
 *  create row action 
